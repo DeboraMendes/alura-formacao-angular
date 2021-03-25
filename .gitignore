@@ -1,0 +1,4 @@
+# Project exclude paths
+/alurapic/node_modules/
+/api/node_modules/
+/log-server/node_modules/
